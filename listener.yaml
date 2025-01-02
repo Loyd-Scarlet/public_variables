@@ -26,13 +26,13 @@ data:
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCfEIfCOqH35G_NxVRiiWxrQ
-    chat_count: 739
+    chat_count: 740
     datetimes:
-      lastchat: '2025-01-02 12:51:26'
+      lastchat: '2025-01-02 12:55:35'
     timestamps:
-      lastchat: 1735789886573
-    pt_crr: 963750
-    pt_ttl: 1000250
+      lastchat: 1735790135943
+    pt_crr: 963251
+    pt_ttl: 1000251
     skins:
       ゆうしゃのけん: true
 
