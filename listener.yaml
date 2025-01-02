@@ -26,13 +26,13 @@ data:
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCfEIfCOqH35G_NxVRiiWxrQ
-    chat_count: 738
+    chat_count: 739
     datetimes:
-      lastchat: '2025-01-02 12:33:28'
+      lastchat: '2025-01-02 12:51:26'
     timestamps:
-      lastchat: 1735788808407
-    pt_crr: 964249
-    pt_ttl: 1000249
+      lastchat: 1735789886573
+    pt_crr: 963750
+    pt_ttl: 1000250
     skins:
       ゆうしゃのけん: true
 
@@ -43,6 +43,9 @@ data:
       いっぽんのつの: true
       てんしのわ: true
       あかのちょうねくたい: true
+      はーとのねっくれす: true
+      しぶいさんぐらす: true
+      まほうつかいのつえ: true
   UCVPxsBGGGdli1asNAQWsRKQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCVPxsBGGGdli1asNAQWsRKQ
