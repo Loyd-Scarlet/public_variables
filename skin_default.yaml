@@ -1,0 +1,78 @@
+DATA:
+  りばーしのおうかん:
+    filename: skin_crown_reversi.png
+    loc: [485, 55]
+    enable: true
+    rarity: L      # common
+
+  はーとのねっくれす:
+    filename: skin_necklace_heart.png
+    loc: [490, 280]
+    enable: true
+    rarity: C
+
+  しろのまるめがね:
+    filename: skin_glasses_white.png
+    loc: [500, 235]
+    enable: true
+    rarity: C
+
+  みずいろのりぼん:
+    filename: skin_ribbon_lightblue.png
+    loc: [610, 170]
+    enable: true
+    rarity: SR
+
+  てんしのわ:
+    filename: skin_angelring_white.png
+    loc: [495, 125]
+    enable: true
+    rarity: R
+
+
+  あかのちょうねくたい:
+    filename: skin_bowtie_red.png
+    loc: [560, 320]
+    enable: true
+    rarity: C
+
+  いっぽんのつの:
+    filename: skin_horn_single.png
+    loc: [585, 135]
+    enable: true
+    rarity: R
+
+
+  まほうつかいのつえ:
+    filename: skin_wand_oldwizzard.png
+    loc: [310, 135]
+    enable: true
+    rarity: SR
+
+
+  ゆうしゃのけん:
+    filename: skin_sord_brave.png
+    loc: [300, 30]
+    enable: true
+    rarity: SR
+
+
+  ぴんくのおしゃぶり:
+    filename: skin_pacifier_pink.png
+    loc: [580, 288]
+    enable: true
+    rarity: C
+
+
+  しぶいさんぐらす:
+    filename: skin_sanglasses_hardboiled.png
+    loc: [540, 245]
+    enable: true
+    rarity: SSR
+
+
+  くろーばーのかみかざり:
+    filename: skin_hairaccessory_clover.png
+    loc: [650, 185]
+    enable: true
+    rarity: C
