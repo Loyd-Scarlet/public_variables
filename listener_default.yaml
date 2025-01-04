@@ -10,19 +10,10 @@ data:
     pt_crr: 13619
     pt_ttl: 100300
     skins:
-      しろいめがね: false
-      はーとのねっくれす: true
-      みずいろのりぼん: true
-
-      あかのちょうねくたい: true
-      くろーばーのかみかざり: true
-      しぶいさんぐらす: true
-      てんしのわ: true
       いっぽんのつの: true
       しろのまるめがね: true
-      ゆうしゃのけん: true
-      ぴんくのおしゃぶり: true
       まほうつかいのつえ: true
+
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCfEIfCOqH35G_NxVRiiWxrQ
@@ -34,16 +25,6 @@ data:
     pt_crr: 962253
     pt_ttl: 1000253
     skins:
-      ゆうしゃのけん: true
-
-      ぴんくのおしゃぶり: true
-      くろーばーのかみかざり: true
-      みずいろのりぼん: true
-      しろのまるめがね: true
-      いっぽんのつの: true
-      てんしのわ: true
-      あかのちょうねくたい: true
-      はーとのねっくれす: true
       しぶいさんぐらす: true
       まほうつかいのつえ: true
   UCVPxsBGGGdli1asNAQWsRKQ:
@@ -57,11 +38,8 @@ data:
     pt_crr: 10000
     pt_ttl: 1000
     skins:
-      いっぽんのつの: true
-      あかのちょうねくたい: true
-      しろのまるめがね: true
-
       しぶいさんぐらす: true
+
   UCf4Fq2Ho5OxE2UtBV4I53aA:
     name: ロイド・スカーレット
     image_url: http://www.youtube.com/channel/UCf4Fq2Ho5OxE2UtBV4I53aA
@@ -73,13 +51,6 @@ data:
     pt_crr: 39181
     pt_ttl: 52181
     skins:
-      しぶいさんぐらす: true
-      あかのちょうねくたい: true
-      てんしのわ: true
-      くろーばーのかみかざり: true
-      しろのまるめがね: true
-      いっぽんのつの: true
-      はーとのねっくれす: true
       ぴんくのおしゃぶり: true
       みずいろのりぼん: true
       ゆうしゃのけん: true
