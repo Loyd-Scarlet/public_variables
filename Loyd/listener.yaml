@@ -13,6 +13,9 @@ data:
       いっぽんのつの: true
       しろのまるめがね: true
       まほうつかいのつえ: true
+    status:
+      love: 0
+      mute: false
 
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
@@ -27,34 +30,44 @@ data:
     skins:
       しぶいさんぐらす: true
       まほうつかいのつえ: true
-  UCVPxsBGGGdli1asNAQWsRKQ:
-    name: はる
-    image_url: http://www.youtube.com/channel/UCVPxsBGGGdli1asNAQWsRKQ
-    chat_count: 6
-    datetimes:
-      lastchat: '2024-11-04 22:04:42'
-    timestamps:
-      lastchat: 1730725482644
-    pt_crr: 10000
-    pt_ttl: 1000
-    skins:
-      しぶいさんぐらす: true
+    status:
+      love: 0
+      mute: false
 
   UCf4Fq2Ho5OxE2UtBV4I53aA:
     name: ロイド・スカーレット
     image_url: http://www.youtube.com/channel/UCf4Fq2Ho5OxE2UtBV4I53aA
-    chat_count: 161
+    chat_count: 162
     datetimes:
-      lastchat: '2024-12-04 03:16:34'
+      lastchat: '2025-08-20 03:47:07'
     timestamps:
-      lastchat: 1733249794162
-    pt_crr: 39181
-    pt_ttl: 52181
+      lastchat: 1755629227460
+    pt_crr: 39191
+    pt_ttl: 52191
     skins:
       ぴんくのおしゃぶり: true
       みずいろのりぼん: true
       ゆうしゃのけん: true
       まほうつかいのつえ: true
+    status:
+      love: 0
+      mute: false
+
+  UCVPxsBGGGdli1asNAQWsRKQ:
+    name: はる
+    image_url: http://www.youtube.com/channel/UCVPxsBGGGdli1asNAQWsRKQ
+    chat_count: 1
+    datetimes:
+      lastchat: '2025-08-20 03:46:02'
+    timestamps:
+      lastchat: 1755629162673
+    pt_crr: 100
+    pt_ttl: 100
+    skins: {}
+    status:
+      love: 0
+      mute: false
+
 ids:
   Spr: [UC6KryiKlLOQWdhDHi0yro-g]
   はる: [UCfEIfCOqH35G_NxVRiiWxrQ, UCVPxsBGGGdli1asNAQWsRKQ]
