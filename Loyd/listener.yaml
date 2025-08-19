@@ -37,17 +37,15 @@ data:
   UCf4Fq2Ho5OxE2UtBV4I53aA:
     name: ロイド・スカーレット
     image_url: http://www.youtube.com/channel/UCf4Fq2Ho5OxE2UtBV4I53aA
-    chat_count: 162
+    chat_count: 163
     datetimes:
-      lastchat: '2025-08-20 03:47:07'
+      lastchat: '2025-08-20 03:48:46'
     timestamps:
-      lastchat: 1755629227460
-    pt_crr: 39191
-    pt_ttl: 52191
+      lastchat: 1755629326755
+    pt_crr: 39192
+    pt_ttl: 52192
     skins:
       ぴんくのおしゃぶり: true
-      みずいろのりぼん: true
-      ゆうしゃのけん: true
       まほうつかいのつえ: true
     status:
       love: 0
