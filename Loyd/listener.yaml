@@ -21,13 +21,13 @@ data:
   UCf4Fq2Ho5OxE2UtBV4I53aA:
     name: ロイド・スカーレット
     image_url: http://www.youtube.com/channel/UCf4Fq2Ho5OxE2UtBV4I53aA
-    chat_count: 9
+    chat_count: 11
     datetimes:
-      lastchat: '2025-08-20 02:06:24'
+      lastchat: '2025-08-20 02:13:01'
     timestamps:
-      lastchat: 1755623184708
-    pt_crr: 108
-    pt_ttl: 108
+      lastchat: 1755623581386
+    pt_crr: 110
+    pt_ttl: 110
     skins: {}
     status:
       love: 0
@@ -35,13 +35,13 @@ data:
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCfEIfCOqH35G_NxVRiiWxrQ
-    chat_count: 16
+    chat_count: 18
     datetimes:
-      lastchat: '2025-08-20 02:05:54'
+      lastchat: '2025-08-20 02:12:53'
     timestamps:
-      lastchat: 1755623154086
-    pt_crr: 115
-    pt_ttl: 115
+      lastchat: 1755623573769
+    pt_crr: 117
+    pt_ttl: 117
     skins:
       まほうつかいのつえ: true
     status:
