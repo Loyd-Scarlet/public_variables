@@ -13,9 +13,6 @@ data:
       いっぽんのつの: true
       しろのまるめがね: true
       まほうつかいのつえ: true
-    status:
-      love: 0
-      mute: false
   UCf4Fq2Ho5OxE2UtBV4I53aA:
     name: ロイド・スカーレット
     image_url: http://www.youtube.com/channel/UCf4Fq2Ho5OxE2UtBV4I53aA
@@ -27,9 +24,6 @@ data:
     pt_crr: 113
     pt_ttl: 113
     skins: {}
-    status:
-      love: 0
-      mute: false
   UCfEIfCOqH35G_NxVRiiWxrQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCfEIfCOqH35G_NxVRiiWxrQ
@@ -42,10 +36,6 @@ data:
     pt_ttl: 117
     skins:
       まほうつかいのつえ: true
-    status:
-      love: 0
-      mute: false
-
   UCVPxsBGGGdli1asNAQWsRKQ:
     name: はる
     image_url: http://www.youtube.com/channel/UCVPxsBGGGdli1asNAQWsRKQ
@@ -58,10 +48,6 @@ data:
     pt_ttl: 105
     skins:
       まほうつかいのつえ: true
-    status:
-      love: 0
-      mute: false
-
 ids:
   Spr: [UC6KryiKlLOQWdhDHi0yro-g]
   ロイド・スカーレット:
